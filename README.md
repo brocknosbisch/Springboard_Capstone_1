@@ -1,4 +1,4 @@
-# Springboard_Capstone_1
+# Springboard Capstone 1
 
 ## Springboard Data Science Certification - Capstone 1 Project
 Probability of Defaulting
